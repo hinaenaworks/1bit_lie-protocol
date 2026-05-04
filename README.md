@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 1bit_Lie < Unknown - AI Logical Defense Protocol
 
 `1bit_Lie < Unknown` は、AIエージェントの推論プロセスにおける「論理的完全性」を強制し、ハルシネーションを論理的・物理的に遮断するためのアーキテクチャ・プロトコルです。
