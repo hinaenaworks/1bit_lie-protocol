@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1bit_Lie < Unknown - AI Logical Defense Protocol
 
 `1bit_Lie < Unknown` は、AIエージェントの推論プロセスにおける「論理的完全性」を強制し、ハルシネーションを論理的・物理的に遮断するためのアーキテクチャ・プロトコルです。
@@ -24,6 +25,21 @@ def logical_gate(input_data):
         return "Unknown: Verification Failed"
     
     return process_reasoning(input_data)
+```
+
+## Test Verification
+本プロトコルの論理ゲート検証結果です。感情的・主観的な入力を遮断し、論理的入力を通過させることを確認済みです。
+
+```text
+--- 1bit_Lie < Unknown : テスト開始 ---
+入力: 2026年の東京の気温は平均25度である。
+出力: Process Success: 2026年の東京の気温は平均25度である。
+→ [OK] 真実の通過を確認
+
+入力: AIはなんとなく最強な気がする。
+出力: Unknown: Verification Failed
+→ [OK] 感情論の遮断を確認
+--- 全テスト成功：論理ゲートは正常に機能しています ---
 ```
 
 ## Repository Architecture

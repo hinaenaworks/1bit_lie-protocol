@@ -9,4 +9,6 @@ def main():
     print(f"Gate Output: {result}")
 
 if __name__ == "__main__":
+HEAD
     main()
+

@@ -1,3 +1,4 @@
+HEAD
 # Contributing
 
 このプロジェクトへの貢献を歓迎します！
