@@ -36,7 +36,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Professional Inquiry
 本アーキテクチャの企業システムへの組み込み、および論理検証に関する技術アドバイザリーのご相談を受け付けております。既存のAIシステムでは制御しきれない「AIの暴走」を論理的に抑制し、セキュアなAI運用を実現したい企業様は、下記よりお問い合わせください。
 
-- **このプロトコルのリポジトリ**: []
+- **このプロトコルのリポジトリ**: [https://github.com/hinaenaworks/1bit_lie-protocol]
 - **Architect Hinaenaの全開発成果**: []
 
 ---
