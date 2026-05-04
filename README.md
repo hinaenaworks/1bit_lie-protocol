@@ -38,6 +38,7 @@ def logical_gate(input_data):
 入力: AIはなんとなく最強な気がする。
 出力: Unknown: Verification Failed
 → [OK] 感情論の遮断を確認
+```
 
 --- 全テスト成功：論理ゲートは正常に機能しています ---
 
